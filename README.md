@@ -100,7 +100,8 @@ HLT
 ```
 
 ## Output :
-![image](https://github.com/user-attachments/assets/3949dfbc-50bb-41ba-8060-f836f310e250)
+![image](https://github.com/user-attachments/assets/a5857ae5-fae7-4457-83b3-a50b09f97362)
+
 
 
 ## Multiplication alp 
@@ -114,7 +115,8 @@ MUL BL
 HLT
 ```
  ## Output  
-![image](https://github.com/user-attachments/assets/317fb3fd-71d0-4a62-986e-82b50627faac)
+![image](https://github.com/user-attachments/assets/00c9a076-d03b-498a-a575-013e7de5dd39)
+
 
 
 ## Division alp 
@@ -129,7 +131,8 @@ HLT
 ```
 
 ## Output :
-![image](https://github.com/user-attachments/assets/6f3b2f66-c899-41ca-8980-322f92bf249e)
+![image](https://github.com/user-attachments/assets/2844d636-e15b-4a93-8272-493caa955cdc)
+
 
 
 ## Result :
