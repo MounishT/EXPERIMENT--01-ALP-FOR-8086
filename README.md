@@ -1,10 +1,10 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-T MOUNISH
-Roll no :
-212223240098
-Date of experiment :
-22-08-2024
+Name :T MOUNISH
+
+Roll no :212223240098
+
+Date of experiment :22-08-2024
+
 
 
 
